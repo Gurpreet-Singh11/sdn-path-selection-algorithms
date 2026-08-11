@@ -1,0 +1,11 @@
+run,method,completion_time,path_switches,fairness_index
+1,least_utilized,31.1,0,0.97
+2,least_utilized,30.8,0,0.96
+3,least_utilized,31.3,0,0.98
+4,least_utilized,30.9,0,0.97
+5,least_utilized,31.2,0,0.96
+6,least_utilized,30.7,0,0.98
+7,least_utilized,31.4,0,0.97
+8,least_utilized,31.0,0,0.96
+9,least_utilized,30.8,0,0.97
+10,least_utilized,31.1,0,0.98

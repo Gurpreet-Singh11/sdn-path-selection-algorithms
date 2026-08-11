@@ -1,0 +1,5 @@
+method,avg_completion_time,avg_path_switches,avg_fairness_index
+round_robin,33.05,27.9,0.526
+least_utilized,31.03,0.0,0.97
+ecmp,32.42,0.0,0.88
+weighted_history,31.43,0.0,0.94
